@@ -1,0 +1,102 @@
+[
+    {
+        "cat_id": "perons_convicted",
+        "cat_tc": "\u88ab\u88c1\u5b9a\u6d17\u9ed1\u9322\u7f6a\u540d\u6210\u7acb\u7684\u7e3d\u4eba\u6578*",
+        "cat_sc": "\u88ab\u88c1\u5b9a\u6d17\u9ed1\u94b1\u7f6a\u540d\u6210\u7acb\u7684\u603b\u4eba\u6570*",
+        "cat_en": "Number of Persons convicted of Money Laundering*",
+        "sub_items": [
+            {
+                "2014": 145
+            },
+            {
+                "2015": 121
+            },
+            {
+                "2016": 100
+            },
+            {
+                "2017": 94
+            },
+            {
+                "2018": 83
+            },
+            {
+                "2019": 103
+            },
+            {
+                "2020": 69
+            }
+        ]
+    },
+    {
+        "cat_id": "assets_restrained",
+        "cat_tc": "\u88ab\u9650\u5236\u7684\u8ca1\u7522\u7e3d\u503c (\u4ee5\u6e2f\u5143\u8a08)#",
+        "cat_sc": "\u88ab\u9650\u5236\u7684\u8d22\u4ea7\u603b\u503c(\u4ee5\u6e2f\u5143\u8ba1)#",
+        "cat_en": "Value of assets restrained # (HK$)",
+        "sub_items": [
+            {
+                "2014": 418916802
+            },
+            {
+                "2015": 341500028
+            },
+            {
+                "2016": 268572436
+            },
+            {
+                "2017": 525530659
+            },
+            {
+                "2018": 7872136764
+            },
+            {
+                "2019": 163096565
+            },
+            {
+                "2020": 267598817
+            }
+        ]
+    },
+    {
+        "cat_id": "amount_recovered",
+        "cat_tc": "\u5df2\u8a0e\u56de\u4e26\u4e0a\u7e73\u653f\u5e9c\u7684\u91d1\u984d (\u4ee5\u6e2f\u5143\u8a08)#",
+        "cat_sc": "\u5df2\u8ba8\u56de\u5e76\u4e0a\u7f34\u653f\u5e9c\u7684\u91d1\u989d(\u4ee5\u6e2f\u5143\u8ba1)#",
+        "cat_en": "Amount recovered & paid to Gov't # (HK$)",
+        "sub_items": [
+            {
+                "2014": 52302293
+            },
+            {
+                "2015": 55034982
+            },
+            {
+                "2016": 4318367
+            },
+            {
+                "2017": 467369569
+            },
+            {
+                "2018": 284170799
+            },
+            {
+                "2019": 19779818
+            },
+            {
+                "2020": 164473109
+            }
+        ]
+    },
+    {
+        "remark": [
+            {
+                "tc": "* - 上述數字來自警方及海關\n# - 上述數字來自律政司 "
+            },
+            {
+                "sc": "* - 上述数字来自警方及海关\n# - 上述数字来自律政司"
+            },
+            {
+                "en": "* - Figures are from Police and C&ED \n# - Figures are from Department of Justice"
+            }
+        ]
+    }
+]
